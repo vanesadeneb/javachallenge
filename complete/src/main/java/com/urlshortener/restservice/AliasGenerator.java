@@ -1,4 +1,4 @@
-package com.example.restservice;
+package com.urlshortener.restservice;
 import java.util.Random;
 
 public class AliasGenerator {
