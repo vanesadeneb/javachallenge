@@ -13,7 +13,7 @@ Files path: javachallenge/complete/src/main/java/com/urlshortener/restservice
 
 How to run the project:
 - Open a command line (or terminal) and navigate to the folder /**javachallenge/complete** and execute the follow commands:
-MacOS/Linux: **./mvnw spring-boot:run**
+MacOS/Linux: **./mvnw clean spring-boot:run**
 
 I used the follow commad to obtain the alias from a url:
 **- curl -X POST localhost:8080/ -H 'Content-type:application/json' -d '{"url": "https://espanol.yahoo.com/"}'**
